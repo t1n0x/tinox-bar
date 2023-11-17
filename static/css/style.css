@@ -1,0 +1,9 @@
+body {
+  background: url('../img/1.jpg'); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aqua;
+}
+p {
+  color: aquamarine;
+}

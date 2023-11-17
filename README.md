@@ -1,1 +1,1 @@
-See in source js
+This is my bar!
